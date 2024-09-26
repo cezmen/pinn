@@ -1,14 +1,14 @@
 # 1D cavity model filled with homogeneous media ( MODE = 1 )
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="Analytical_Solution_Mode_2.png" height="200" alt="Analytical Solution">
-  <img src="PINN_Solution_Mode_2.png" height="200" alt="PINN Solution">
-  <img src="Scatter_Plot_Mode_2.png" height="200" alt="Scatter Plot of Collocation Points">
+  <img src="Analytical_Solution_Mode_2.png" height="300" alt="Analytical Solution">
+  <img src="PINN_Solution_Mode_2.png" height="300" alt="PINN Solution">
+  <img src="Scatter_Plot_Mode_2.png" height="300" alt="Scatter Plot of Collocation Points">
 </div>
 
 **Space-Time Propagation of Ey and Hz fields**
 <figure>
-  <img src="space_time_propagation_eh.gif" width="400" alt="Space-Time Propagation">
+  <img src="space_time_propagation_eh.gif" height="300" alt="Space-Time Propagation">
 </figure>
 
 **Evolution of PINN Training Through Epochs**
