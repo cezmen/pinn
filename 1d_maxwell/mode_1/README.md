@@ -3,7 +3,7 @@
 
 **Space-Time Propagation of Ey and Hz fields**
 <figure>
-  <img src="space_time_propagation_eh.gif" width="640" alt="Space-Time Propagation">
+  <img src="space_time_propagation_eh.gif" width="400" alt="Space-Time Propagation">
 </figure>
 
 **Evolution of PINN Training Through Epochs**
