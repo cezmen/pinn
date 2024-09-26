@@ -10,7 +10,7 @@
 </div>
 <br>
 
-**Space-Time Propagation of Ey and Hz fields**
+**Space-Time Propagation of Ey and Hz fields (based on PINN inferences)**
 <figure>
   <img src="space_time_propagation_eh.gif" height="300" alt="Space-Time Propagation">
 </figure>
