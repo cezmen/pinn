@@ -16,7 +16,7 @@
 </figure>
 <br>
 
-**Evolution of PINN Training Through Epochs**
+**Evolution of PINN Training Through Epochs (20000 ephocs)**
 <figure>
   <img src="1d_maxwell_pinn_animation_stacked.gif" width="800" alt="Evolution of PINN Training">
 </figure>
