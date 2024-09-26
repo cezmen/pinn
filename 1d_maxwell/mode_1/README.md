@@ -1,5 +1,7 @@
 # 1D cavity model filled with homogeneous media ( MODE = 1 )
+
 <br>
+
 **Analytical Solution, PINN Solution and Collocation Points for Training**
 <div style="display: flex; justify-content: space-around;">
   <img src="Analytical_Solution_Mode_2.png" height="300" alt="Analytical Solution">
