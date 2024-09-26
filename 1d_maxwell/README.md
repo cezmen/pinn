@@ -1,1 +1,1 @@
-# PINN Solution for 1D Maxwell Equations
+# PINN Solution for 1D Maxwell's Equations
