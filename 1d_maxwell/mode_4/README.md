@@ -21,5 +21,5 @@
   <img src="1d_maxwell_pinn_animation_stacked.gif" width="800" alt="Evolution of PINN Training">
 </figure>
 
-:test_tube: [Explore results for different modes](..)
+:test_tube: [Explore results for different modes](../README.md)
 
