@@ -15,4 +15,4 @@ You can run this notebook on Google Colab by clicking the link below. You can al
 
 <br> 
 
-:back: &nbsp; [Return to Main Page](../README.md)
+:back: &nbsp; [Return](../README.md)
