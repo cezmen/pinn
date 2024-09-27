@@ -41,8 +41,10 @@ where:
 
 In summary, the mode number controls the spatial variation of the fields, determining how many nodes and antinodes appear along the length of the cavity. Higher mode numbers correspond to more complex standing wave patterns and higher frequencies.
 
-## Common Applications 
 <br>
+
+## Common Applications 
+
 The 1D cavity model filled with homogeneous media is a simplified yet powerful framework used to study wave propagation and resonance phenomena. In real-world applications, this model is commonly employed in the design of waveguides, where electromagnetic waves are transmitted through structures such as optical fibers or microwave transmission lines. It also plays a crucial role in understanding resonant cavities, which are used in devices like lasers, microwave ovens, and particle accelerators, to manage and amplify electromagnetic waves. Additionally, this model informs antenna design, aiding in the development of efficient transmission and reception systems by controlling wave behavior and resonance within confined spaces.
 
 <br>
