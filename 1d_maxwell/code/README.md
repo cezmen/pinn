@@ -7,8 +7,8 @@ You can run this notebook on Google Colab by clicking the link below. You can al
 
 <br>
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cezmen/pinn/blob/main/1d_maxwell/code/MAXWELL_1D_PINN.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cezmen/pinn/blob/main/1d_maxwell/code/MAXWELL_1D_PINN_PUBLIC.ipynb)
 
 <br>
 
-:floppy_disk:  [Download the Notebook](MAXWELL_1D_PINN.ipynb) 
+:floppy_disk:  [Download the Notebook](MAXWELL_1D_PINN_PUBLIC.ipynb) 
