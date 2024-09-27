@@ -4,9 +4,9 @@
 
 **Analytical Solution, PINN Solution and Collocation Points for Training**
 <div style="display: flex; justify-content: space-around;">
-  <img src="Analytical_Solution_Mode_2.png" height="300" alt="Analytical Solution">
-  <img src="PINN_Solution_Mode_2.png" height="300" alt="PINN Solution">
-  <img src="Scatter_Plot_Mode_2.png" height="300" alt="Scatter Plot of Collocation Points">
+  <img src="Analytical_Solution.png" height="300" alt="Analytical Solution">
+  <img src="PINN_Solution.png" height="300" alt="PINN Solution">
+  <img src="Scatter_Plot.png" height="300" alt="Scatter Plot of Collocation Points">
 </div>
 <br>
 
