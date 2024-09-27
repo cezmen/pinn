@@ -1,3 +1,5 @@
+$('#readme').insertBefore('.file-navigation');
+
 # 1D cavity model filled with homogeneous media ( MODE = 1 )
 
 <br>
