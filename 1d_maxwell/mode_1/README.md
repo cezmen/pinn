@@ -1,5 +1,5 @@
 
-# 1D cavity model filled with homogeneous media ( MODE = 1 )
+# 1D cavity model filled with homogeneous media (MODE 1)
 <br>
 
 **Analytical Solution, PINN Solution and Collocation Points for Training**
