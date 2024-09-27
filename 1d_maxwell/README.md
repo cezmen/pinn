@@ -1,6 +1,6 @@
 # PINN Solution for 1D Maxwell's Equations
 
-**PINN Simulation Results:**
+**<ins>PINN Simulation Results</ins>:**
 
 - [Mode = 1](mode_1/README.md) <br>
 - [Mode = 2](mode_2/README.md) <br>
