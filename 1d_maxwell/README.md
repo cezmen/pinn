@@ -1,9 +1,10 @@
 # PINN Solution for 1D Maxwell's Equations
 
-# PINN Simulation Results:
-[Mode = 1](mode_1) <br>
-[Mode = 2](mode_2) <br>
-[Mode = 4](mode_4) <br>
+**PINN Simulation Results:**
+
+- [Mode = 1](mode_1) <br>
+- [Mode = 2](mode_2) <br>
+- [Mode = 4](mode_4) <br>
 
 ## 1D cavity model filled with homogeneous media (Summary)
 
