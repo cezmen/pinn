@@ -1,6 +1,5 @@
 
 # 1D cavity model filled with homogeneous media ( MODE = 1 )
-[ other modes](..)
 <br>
 
 **Analytical Solution, PINN Solution and Collocation Points for Training**
@@ -22,3 +21,4 @@
   <img src="1d_maxwell_pinn_animation_stacked.gif" width="800" alt="Evolution of PINN Training">
 </figure>
 
+[ see other modes](..)
