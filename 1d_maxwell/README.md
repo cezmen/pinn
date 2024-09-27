@@ -62,4 +62,7 @@ The 1D cavity model filled with homogeneous media is a simplified yet powerful f
 | Microwave Filters        | Applied in the design of filters to isolate specific frequencies in microwave circuits.            | The 1D cavity model aids in understanding how electromagnetic waves interact with filters, ensuring precise frequency selection and signal purity. |
 | Cavity Quantum Electrodynamics (CQED) | Used in quantum technologies to study the interaction between light and matter within a cavity. | By modeling the electromagnetic field in a confined space, the 1D cavity model helps researchers explore light-matter interactions, crucial for advancements in quantum computing and communication. |
 
+<br>
+
+:back: &nbsp; [Return](../README.md)
 
