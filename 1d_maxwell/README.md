@@ -1,8 +1,10 @@
 # PINN Solution for 1D Maxwell's Equations
 
+# PINN Simulation Results:
 [Mode = 1](mode_1) <br>
 [Mode = 2](mode_2) <br>
 [Mode = 4](mode_4) <br>
+
 ## 1D cavity model filled with homogeneous media (Summary)
 
 In the context of the 1D Cavity Model with homogeneous media, **mode numbers** refer to the quantized frequencies of the standing wave solutions for the electric field $E(x,t)$ and magnetic field $H(x,t)$ inside the cavity. These modes result from the boundary conditions imposed on the fields, typically at the ends of the cavity (e.g., perfectly conducting walls).
