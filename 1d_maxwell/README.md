@@ -64,5 +64,5 @@ The 1D cavity model filled with homogeneous media is a simplified yet powerful f
 
 <br>
 
-:back: &nbsp; [Return](../README.md)
+:back: &nbsp; [Return to PINN Applications](../README.md)
 
