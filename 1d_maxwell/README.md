@@ -13,7 +13,7 @@ The PINN solution for 1D Maxwell's equations efficiently models electromagnetic 
 
 In the context of the 1D Cavity Model with homogeneous media, **mode numbers** refer to the quantized frequencies of the standing wave solutions for the electric field $E(x,t)$ and magnetic field $H(x,t)$ inside the cavity. These modes result from the boundary conditions imposed on the fields, typically at the ends of the cavity (e.g., perfectly conducting walls).
 
-The mode numbers $n$ are related to the **number of half-wavelengths** that fit within the cavity. For a cavity of length $L$, the mode number determines the possible wave patterns (standing wave configurations) that can form inside the cavity, as described by:
+The mode numbers $n$ are related to the **number of half-wavelengths** that fit within the cavity. For a cavity of length $L$, the mode number determines the possible wave patterns (standing wave configurations) that can form inside the cavity, as described by the general solution:
 
 $$
 E_n(x, t) = E_0 \sin\left( \frac{n \pi x}{L} \right) e^{i \omega_n t}
