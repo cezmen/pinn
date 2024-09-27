@@ -10,7 +10,7 @@ The PINN solution for 1D Maxwell's equations efficiently models electromagnetic 
 <br>
 
 **<ins>Source Code</ins>:**
-- :abacus: &nbsp; [View Code](code/README.md)
+- :abacus: &nbsp; [Explore Source Code](code/README.md)
 
 <br>
 
