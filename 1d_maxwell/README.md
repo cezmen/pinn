@@ -3,14 +3,14 @@ The PINN solution for 1D Maxwell's equations efficiently models electromagnetic 
 
 **<ins>PINN Simulation Results</ins>:**
 
-- :bar_chart: [Mode = 1](mode_1/README.md) <br>
-- :bar_chart: [Mode = 2](mode_2/README.md) <br>
-- :bar_chart: [Mode = 4](mode_4/README.md) <br>
+- :bar_chart: &nbsp; [Mode = 1](mode_1/README.md) <br>
+- :bar_chart: &nbsp; [Mode = 2](mode_2/README.md) <br>
+- :bar_chart: &nbsp; [Mode = 4](mode_4/README.md) <br>
 
 <br>
 
 **<ins>Source Code</ins>:**
-- :abacus:   [View Code](code/README.md)
+- :abacus: &nbsp; [View Code](code/README.md)
 
 <br>
 
