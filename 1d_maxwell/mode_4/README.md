@@ -1,4 +1,4 @@
-# 1D cavity model filled with homogeneous media ( MODE = 4 )
+# 1D cavity model filled with homogeneous media (MODE 4)
 
 <br>
 
