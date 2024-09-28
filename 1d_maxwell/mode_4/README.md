@@ -1,6 +1,11 @@
 # 1D cavity model filled with homogeneous media (MODE 4)
 
 <br>
+<figure>
+  <img src="../images/24_12_6_NN_diagram_annotated.png" height="300" alt="Neural Network Topology Diagram">
+</figure>
+<br>
+
 
 **Analytical Solution, PINN Solution and Collocation Points for Training**
 <div style="display: flex; justify-content: space-around;">
