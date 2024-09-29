@@ -1,5 +1,9 @@
 # PINN Solution for 1D Maxwell's Equations
+
+These demos showcase the implementation of Physics-Informed Neural Networks (PINNs) for solving 1D Maxwell's equations in the classical "1D cavity with homogeneous medium" problem. Each demo employs a fully connected neural network with 3 hidden layers, consisting of 24, 12, and 6 neurons, respectively. The input layer has two dimensions (space x and time t), while the output layer predicts both the electric field (Ey) and magnetic field (Hz). Together, these demos illustrate the capability of PINNs to model electromagnetic field dynamics in the cavity across different configurations.
+
 The PINN solution for 1D Maxwell's equations efficiently models electromagnetic fields in the 1D cavity filled with homogeneous media, capturing wave propagation and resonance. This approach enables accurate simulations of field behavior, crucial for applications like waveguides, resonant cavities, and antenna design, without relying on traditional numerical methods.
+
 
 **<ins>PINN Simulation Results</ins>:**
 
