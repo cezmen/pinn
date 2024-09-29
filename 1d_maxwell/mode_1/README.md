@@ -3,7 +3,7 @@
 
 <br>
 <figure>
-  <img src="../images/24_12_6_NN_diagram_annotated.png" height="300" alt="Neural Network Topology Diagram">
+  <img src="../images/24_12_6_NN_diagram_annotated.png" width="273" height="200" alt="Neural Network Topology Diagram">
 </figure>
 <br>
 
