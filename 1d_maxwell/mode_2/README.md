@@ -20,7 +20,7 @@
 </figure>
 <br>
 
-**Evolution of PINN Training Through Epochs (loops through 20000 epochs)**
+**Evolution of PINN Training Through Epochs (loops through 40000 epochs)**
 <figure>
   <img src="1d_maxwell_pinn_animation_stacked.gif" width="800" alt="Evolution of PINN Training">
 </figure>
