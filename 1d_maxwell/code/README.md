@@ -13,7 +13,7 @@ The source code utilizes Google JAX, a Python library for array-based numerical 
 
 <br>
 
-:floppy_disk: &nbsp; [explore (or download) the notebook (PINN Solution)](MAXWELL_1D_PINN_PUBLIC.ipynb) 
+:floppy_disk: &nbsp; [explore the notebook (PINN Solution)](MAXWELL_1D_PINN_PUBLIC.ipynb) 
 
 <br> 
 
