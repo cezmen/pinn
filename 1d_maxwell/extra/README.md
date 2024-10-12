@@ -2,6 +2,10 @@
 
 <br>
 
+As a reference, the following links provide the source code for the FDTD solution to the 1D Cavity Filled with Homogeneous Medium problem based on Maxwell's equations.
+
+<br>
+
 You can run this notebook on Google Colab by clicking the link below. You can also save a copy to your Google Drive for further customization.
 
 <br>
